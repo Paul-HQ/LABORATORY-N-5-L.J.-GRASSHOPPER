@@ -34,4 +34,29 @@ I. GRASSHOPPER
    18. alias: ![C![Captura de pantalla 2025-04-20 220405](https://github.com/user-attachments/assets/a9ec3db3-430d-4c3f-839d-c457e3cbce4b)
    19. exit: ![Captura de pantalla 2025-04-20 220430](https://github.com/user-attachments/assets/40513998-79de-4a06-86b1-e6feb93d0ba0)
 
+   c) Text-Fu
+   1. stdout (Standard out):
+   2. stdin (Standard in):
+   3. stderr (Standard Error):
+   4. pipe and tee:
+   5. env (Environment):
+   6. cut:
+   7. paste:
+   8. head:
+   9. tall:
+   10. expand and unexpand:
+   11. joiin and split:
+   12. sort:
+   13. tr (Translate):
+   14. uniq (Unique):
+   15. wc and ni:
+   16. grep:
+
+   d) Advanced Text-Fu
+   1. regex (Regular Expressions):
+   2. Text Editors:
+   3. Vim (Vi Improved)
+   4. Vim Search Patterns:
+   5. Vin Navigation:
+   6. Vim Editing:
 
