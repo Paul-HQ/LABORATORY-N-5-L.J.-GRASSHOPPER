@@ -1,4 +1,4 @@
-![imagen](https://github.com/user-attachments/assets/98bb622d-4fd7-40d6-b711-cbb9ec154dc3)# LABORATORY-N-5-L.J.-GRASSHOPPER
+# LABORATORY-N-5-L.J.-GRASSHOPPER
 Learning more about linux on Linux Journey
 I. GRASSHOPPER
    a) Getting Started
@@ -45,21 +45,22 @@ I. GRASSHOPPER
    20. ![Captura de pantalla 2025-04-20 202720](https://github.com/user-attachments/assets/13553b68-45dd-4276-ba85-e430b941b739)
    21. mv (Move):
    22. ![Captura de pantalla 2025-04-20 204422](https://github.com/user-attachments/assets/73ab6b78-715d-4e9b-8d54-64c970cc7fa6)
-   23. mkdir (Make Directory): ![Captura de pantalla 2025-04-20 211214](https://github.com/user-attachments/assets/47136a16-df86-4538-ae93-b9ce303ccb8a)
-   24. rm (Remove):
-   25. ![Captura de pantalla 2025-04-20 211741](https://github.com/user-attachments/assets/709805ad-e1e5-4f1d-b94b-f75c379c864e)
-   26. find:
-   27. ![Captura de pantalla 2025-04-20 220114](https://github.com/user-attachments/assets/c7a88aca-9f19-45d4-8e26-bde4a586845f)
-   28. help:
-   29. ![Captura de pantalla 2025-04-20 220225](https://github.com/user-attachments/assets/7f695be1-c410-4de1-a786-d17536491fb3)
-   30. man:
-   31. ![Captura de pantalla 2025-04-20 220247](https://github.com/user-attachments/assets/cd075d11-d68f-4767-b7b5-f5c2b9fabb51)
-   32. whatis:
-   33. ![Captura de pantalla 2025-04-20 220324](https://github.com/user-attachments/assets/de151f8e-f6ef-483a-9810-75e25480257d)
-   34. alias:
-   35. ![C![Captura de pantalla 2025-04-20 220405](https://github.com/user-attachments/assets/a9ec3db3-430d-4c3f-839d-c457e3cbce4b)
-   36. exit:
-   37. ![Captura de pantalla 2025-04-20 220430](https://github.com/user-attachments/assets/40513998-79de-4a06-86b1-e6feb93d0ba0)
+   23. mkdir (Make Directory):
+   24. ![Captura de pantalla 2025-04-20 211214](https://github.com/user-attachments/assets/47136a16-df86-4538-ae93-b9ce303ccb8a)
+   25. rm (Remove):
+   26. ![Captura de pantalla 2025-04-20 211741](https://github.com/user-attachments/assets/709805ad-e1e5-4f1d-b94b-f75c379c864e)
+   27. find:
+   28. ![Captura de pantalla 2025-04-20 220114](https://github.com/user-attachments/assets/c7a88aca-9f19-45d4-8e26-bde4a586845f)
+   29. help:
+   30. ![Captura de pantalla 2025-04-20 220225](https://github.com/user-attachments/assets/7f695be1-c410-4de1-a786-d17536491fb3)
+   31. man:
+   32. ![Captura de pantalla 2025-04-20 220247](https://github.com/user-attachments/assets/cd075d11-d68f-4767-b7b5-f5c2b9fabb51)
+   33. whatis:
+   34. ![Captura de pantalla 2025-04-20 220324](https://github.com/user-attachments/assets/de151f8e-f6ef-483a-9810-75e25480257d)
+   35. alias:
+   36. ![C![Captura de pantalla 2025-04-20 220405](https://github.com/user-attachments/assets/a9ec3db3-430d-4c3f-839d-c457e3cbce4b)
+   37. exit:
+   38. ![Captura de pantalla 2025-04-20 220430](https://github.com/user-attachments/assets/40513998-79de-4a06-86b1-e6feb93d0ba0)
 
    c) Text-Fu
    1. stdout (Standard out):
@@ -98,18 +99,41 @@ I. GRASSHOPPER
 
    d) Advanced Text-Fu
    1. regex (Regular Expressions):
-   2. Text Editors: No questions move along!
-   3. Vim (Vi Improved): No questions move along!
-   4. Vim Search Patterns:
-   5. Vin Navigation:
-   6. Vim Editing:
-   7. Vim Editing:
-   8. Vim Saving and Exiting:
-   9. Emacs: No questions move along!
-   10. Emacs Manipulate Files:
-   11. Emacs Buffer Navigation:
-   12. Emacs Editing:
-   13. Emacs Exiting and Help:
+      ![Captura de pantalla 2025-05-22 120006](https://github.com/user-attachments/assets/6bcef249-f294-4c96-a1f5-9b55ef08dc73)
+   3. Text Editors: No questions move along!
+   5. Vim (Vi Improved): No questions move along!
+   6. Vim Search Patterns:
+      ![Captura de pantalla 2025-05-22 120242](https://github.com/user-attachments/assets/3246de44-6c10-4a81-a383-5ded3e5f906a)
+
+   8. Vin Navigation:
+      ![Captura de pantalla 2025-05-22 120313](https://github.com/user-attachments/assets/ab7825ef-cfda-49eb-b5e0-500cfe716930)
+
+   10. Vim Editing:
+      ![Captura de pantalla 2025-05-22 120331](https://github.com/user-attachments/assets/5096ac0d-6570-4b8c-9fa1-93cf188adf6a)
+
+
+   12. Vim Editing:
+
+![Captura de pantalla 2025-05-22 120354](https://github.com/user-attachments/assets/219dc158-676e-4f75-812b-e64747986281)
+
+   14. Vim Saving and Exiting:
+      
+![Captura de pantalla 2025-05-22 120434](https://github.com/user-attachments/assets/9145c1ba-65e6-4cf3-97c7-9f1727356399)
+
+   16. Emacs: No questions move along!
+   17. Emacs Manipulate Files:
+![Captura de pantalla 2025-05-22 120637](https://github.com/user-attachments/assets/93c7bdf9-dcad-4688-8f75-6d01876acbab)
+
+
+   19. Emacs Buffer Navigation:
+       ![Captura de pantalla 2025-05-22 120714](https://github.com/user-attachments/assets/5280809a-79a0-41d5-be58-1fd342bf5825)
+
+   21. Emacs Editing:
+       ![Captura de pantalla 2025-05-22 120817](https://github.com/user-attachments/assets/f101259b-9391-47bd-b5cb-b77a00f9b127)
+
+   23. Emacs Exiting and Help:
+![Captura de pantalla 2025-05-22 120934](https://github.com/user-attachments/assets/b94c83d0-4158-489f-977a-d41a487aca49)
+
 
    d) User Management
    1. Users and Groups:
