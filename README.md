@@ -1,4 +1,4 @@
-# LABORATORY-N-5-L.J.-GRASSHOPPER
+![imagen](https://github.com/user-attachments/assets/98bb622d-4fd7-40d6-b711-cbb9ec154dc3)# LABORATORY-N-5-L.J.-GRASSHOPPER
 Learning more about linux on Linux Journey
 I. GRASSHOPPER
    a) Getting Started
@@ -98,9 +98,60 @@ I. GRASSHOPPER
 
    d) Advanced Text-Fu
    1. regex (Regular Expressions):
-   2. Text Editors:
-   3. Vim (Vi Improved)
+   2. Text Editors: No questions move along!
+   3. Vim (Vi Improved): No questions move along!
    4. Vim Search Patterns:
    5. Vin Navigation:
    6. Vim Editing:
+   7. Vim Editing:
+   8. Vim Saving and Exiting:
+   9. Emacs: No questions move along!
+   10. Emacs Manipulate Files:
+   11. Emacs Buffer Navigation:
+   12. Emacs Editing:
+   13. Emacs Exiting and Help:
 
+   d) User Management
+   1. Users and Groups:
+   2. root:
+   3. /etc/passwd.
+   4. /etc/shadow
+   5. /etc/group:
+   6. User Management Tools:
+
+   e) Permissions
+   1. File Permissions:
+   2. Modifying Permisions:
+   3. Ownership Permissions:
+   4. Umask:
+   5. Setuid:
+   6. Setgid:
+   7. Process Permissions:
+   8. The Sticky Bit:
+
+   f) Processes
+   1. ps (processes):
+   2. Controlling Terminal:
+   3. Process Details:
+   4. Process Cretion:
+   5. Process Termination:
+   6. Signals:
+   7. kill (Terminate):
+   8. niceness:
+   9. Process States:
+   10. /proc filesystem:
+   11. Job Control:
+
+   g) Packages
+   1. Software Distribution:
+   2. Package Repositories:
+   3. tar and gzip:
+   4. Package Dependencies:
+   5. rpm and dpkg:
+   6. yum and apt:
+   7. Compile Source Code:
+
+
+
+
+   
