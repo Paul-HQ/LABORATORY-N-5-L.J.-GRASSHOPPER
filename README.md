@@ -3,8 +3,8 @@ Learning more about linux on Linux Journey
 I. GRASSHOPPER
    a) Getting Started
    1. History:
-   2. ![Captura de pantalla 2025-04-11 115231](https://github.com/user-attachments/assets/ee5a9b20-1dac-4737-8ffe-b0ec5d09b55a)
-   3. Choosing a Linux Distribution: No questions
+      ![Captura de pantalla 2025-04-11 115231](https://github.com/user-attachments/assets/ee5a9b20-1dac-4737-8ffe-b0ec5d09b55a)
+   2. Choosing a Linux Distribution: No questions
    4. Debian:
    5. ![Captura de pantalla 2025-04-15 164630](https://github.com/user-attachments/assets/4123428f-e52c-4c91-9daa-5db92404d86e)
    6. Red Hat Enterprise Linux:
@@ -100,40 +100,27 @@ I. GRASSHOPPER
    d) Advanced Text-Fu
    1. regex (Regular Expressions):
       ![Captura de pantalla 2025-05-22 120006](https://github.com/user-attachments/assets/6bcef249-f294-4c96-a1f5-9b55ef08dc73)
-   3. Text Editors: No questions move along!
-   5. Vim (Vi Improved): No questions move along!
-   6. Vim Search Patterns:
+   2. Text Editors: No questions move along!
+   3. Vim (Vi Improved): No questions move along!
+   4. Vim Search Patterns:
       ![Captura de pantalla 2025-05-22 120242](https://github.com/user-attachments/assets/3246de44-6c10-4a81-a383-5ded3e5f906a)
-
-   8. Vin Navigation:
+   5. Vin Navigation:
       ![Captura de pantalla 2025-05-22 120313](https://github.com/user-attachments/assets/ab7825ef-cfda-49eb-b5e0-500cfe716930)
-
-   10. Vim Editing:
+   6. Vim Editing:
       ![Captura de pantalla 2025-05-22 120331](https://github.com/user-attachments/assets/5096ac0d-6570-4b8c-9fa1-93cf188adf6a)
-
-
    12. Vim Editing:
-
 ![Captura de pantalla 2025-05-22 120354](https://github.com/user-attachments/assets/219dc158-676e-4f75-812b-e64747986281)
-
    14. Vim Saving and Exiting:
-      
 ![Captura de pantalla 2025-05-22 120434](https://github.com/user-attachments/assets/9145c1ba-65e6-4cf3-97c7-9f1727356399)
-
    16. Emacs: No questions move along!
    17. Emacs Manipulate Files:
 ![Captura de pantalla 2025-05-22 120637](https://github.com/user-attachments/assets/93c7bdf9-dcad-4688-8f75-6d01876acbab)
-
-
    19. Emacs Buffer Navigation:
        ![Captura de pantalla 2025-05-22 120714](https://github.com/user-attachments/assets/5280809a-79a0-41d5-be58-1fd342bf5825)
-
    21. Emacs Editing:
        ![Captura de pantalla 2025-05-22 120817](https://github.com/user-attachments/assets/f101259b-9391-47bd-b5cb-b77a00f9b127)
-
    23. Emacs Exiting and Help:
 ![Captura de pantalla 2025-05-22 120934](https://github.com/user-attachments/assets/b94c83d0-4158-489f-977a-d41a487aca49)
-
 
    d) User Management
    1. Users and Groups:
