@@ -124,28 +124,34 @@ I. GRASSHOPPER
 
    d) User Management
    1. Users and Groups:
-      
+      ![Captura de pantalla 2025-05-23 130543](https://github.com/user-attachments/assets/58b70304-13b0-48d8-92db-fa5e57a10884)
    2. root:
-      
+      ![Captura de pantalla 2025-05-23 131251](https://github.com/user-attachments/assets/54522b31-604d-4f43-935f-d9b4cd244ed2)
    3. /etc/passwd:
-      
+      ![Captura de pantalla 2025-05-23 132030](https://github.com/user-attachments/assets/a87aff40-756f-4c8e-9936-56fe2c82c96e)
    4. /etc/shadow:No questions move along!
    5. /etc/group:
-      
+      ![Captura de pantalla 2025-05-23 132304](https://github.com/user-attachments/assets/5a163807-ad48-4027-bd28-a13fae3350fd)
    6. User Management Tools:
-      
-
-
+      ![Captura de pantalla 2025-05-23 132352](https://github.com/user-attachments/assets/20e95d7a-39ab-48bf-9352-390704dfe44a)
 
    e) Permissions
    1. File Permissions:
+      ![Captura de pantalla 2025-05-23 133207](https://github.com/user-attachments/assets/49110685-e08f-4c21-805f-34fc9947cc01)
    2. Modifying Permisions:
+      ![Captura de pantalla 2025-05-23 133643](https://github.com/user-attachments/assets/6f494012-fe69-4fe5-ad7d-3426317d40ea)
    3. Ownership Permissions:
+      ![Captura de pantalla 2025-05-23 133741](https://github.com/user-attachments/assets/ba7dd88f-d308-4ad1-a2d8-b0aa0c719b5f)
    4. Umask:
+      ![Captura de pantalla 2025-05-23 133814](https://github.com/user-attachments/assets/eda33de9-10d2-4f80-8bb0-4ab8ec3ccbb1)
    5. Setuid:
+      ![Captura de pantalla 2025-05-23 134042](https://github.com/user-attachments/assets/7ff504a4-f936-42bc-8028-7ac5cfed3366)
    6. Setgid:
-   7. Process Permissions:
-   8. The Sticky Bit:
+      ![Captura de pantalla 2025-05-23 134124](https://github.com/user-attachments/assets/d1f67bb5-aabd-4627-b0ca-6eaacc64c04b)
+   8. Process Permissions:
+      ![Captura de pantalla 2025-05-23 134355](https://github.com/user-attachments/assets/726d8e05-1d5f-4826-bb26-757a17b8845d)
+   9. The Sticky Bit:
+      ![Captura de pantalla 2025-05-23 134501](https://github.com/user-attachments/assets/26851751-a6aa-4391-aeb1-97bedfd88333)
 
    f) Processes
    1. ps (processes):
