@@ -155,27 +155,39 @@ I. GRASSHOPPER
 
    f) Processes
    1. ps (processes):
+      ![Captura de pantalla 2025-05-23 165915](https://github.com/user-attachments/assets/c5eb8d57-f681-42be-a61c-b1cb0a7cc7c9)
    2. Controlling Terminal:
+      ![Captura de pantalla 2025-05-23 170352](https://github.com/user-attachments/assets/67a8a08d-afef-4c40-97cf-7adee62edebf)
    3. Process Details:
+      ![Captura de pantalla 2025-05-23 170931](https://github.com/user-attachments/assets/836d8bf2-8150-4ace-9900-2ff3fc2f226f)
    4. Process Cretion:
+      ![Captura de pantalla 2025-05-23 172027](https://github.com/user-attachments/assets/6f712a05-6ebf-4212-8ced-8adecf19b580)
    5. Process Termination:
+       ![Captura de pantalla 2025-05-23 172342](https://github.com/user-attachments/assets/16d3fc1f-3722-4c40-9275-fa9396770d27)
    6. Signals:
+       ![Captura de pantalla 2025-05-23 172619](https://github.com/user-attachments/assets/b81080cf-f802-4da4-88fe-a81d07b8c65c)
    7. kill (Terminate):
+       ![Captura de pantalla 2025-05-23 172942](https://github.com/user-attachments/assets/7b754081-2474-4819-ba8e-6894b68ffd44)
    8. niceness:
+       ![Captura de pantalla 2025-05-25 213212](https://github.com/user-attachments/assets/ded36f8f-8d53-4917-b4ed-d69d7af22ee3)
    9. Process States:
+       ![Captura de pantalla 2025-05-25 213507](https://github.com/user-attachments/assets/9cd4e122-9428-41d0-93b0-73ae0dd2f9ae)
    10. /proc filesystem:
+       ![Captura de pantalla 2025-05-25 213753](https://github.com/user-attachments/assets/d25a39f1-39ec-42b9-8018-615b9d6f580c)
    11. Job Control:
+       ![Captura de pantalla 2025-05-25 214228](https://github.com/user-attachments/assets/3fc88b70-dff5-466c-ae28-17400de093bd)
+
 
    g) Packages
-   1. Software Distribution:
+   1. Software Distribution:No questions, move along!
    2. Package Repositories:
+      ![Captura de pantalla 2025-05-25 235236](https://github.com/user-attachments/assets/99bf1b88-600e-45f2-ac71-e1f6870d1300)
    3. tar and gzip:
-   4. Package Dependencies:
+      ![Captura de pantalla 2025-05-25 235624](https://github.com/user-attachments/assets/13ad3dac-4231-47f0-a9cb-a4109d5abf83)
+   4. Package Dependencies:No questions, move along!
    5. rpm and dpkg:
+      ![Captura de pantalla 2025-05-26 000326](https://github.com/user-attachments/assets/776b5540-76a7-4ad3-8559-f33e7d462f72)
    6. yum and apt:
+       ![Captura de pantalla 2025-05-26 000904](https://github.com/user-attachments/assets/d0e55524-6e2a-424a-be77-b567d0feb5b7)
    7. Compile Source Code:
-
-
-
-
-   
+       ![Captura de pantalla 2025-05-26 001205](https://github.com/user-attachments/assets/795302ab-5261-4101-8df7-eacb85aba396)
